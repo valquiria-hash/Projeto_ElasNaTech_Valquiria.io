@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <link rel="stylesheet" type="text/css" href="CSS/style.css"/>
+        <style type="text/css">
+            /*
+        (selector) {
+                propriedade: valor;
+                propriedade: valor;
+                propriedade: valor;
+        }
+        */
+        header {
+            background-color: yellow !important;
+         }
+
+        footer {
+                background-color: crimson;
+        }
+
+      </style>
+
+      </head>
+
+    <body>
+    <header style="background-color: green">
+    Horário de abertura: 9:00 - 18:00
+    <br/>
+    <img alt="Logo da empresa" src="img/logo.jpg" />
+    <nav>
+    Página Inicial | Produtos e Marcas | <a tite="Vai para a página de fale conosco" href="faleconosco.html">Fale Conosco</a>
+    <a href="ondeestamos.html">Onde estamos </a>
+    </nav>
+    </header>
+
+    <section>
+    Ajuda profissional para escolher as melhores lentes   
+    Armações e lentes
+        
+    </section>
+    <section>
+    Trabalhos com as melhores marcas de lentes
+
+    <img alt="Logo de marcas(lentes)" src="img/LogoLentes.png" width="400" height="200"> 
+    </section>
+    <section>
+    e de armações
+    <img alt="Logo de marcas(armações)" src="img/LogoArmacoes.png" width="300" height="150"> 
+    
+    </section>
+    <section>
+    Grande variedades de armações
+    <a href="ondeestamos.html">Venha conferir</a>
+    </section>
+
+    <footer>
+    <div>
+    <img alt="Logo da empresa" title="Aqui é apresentado a logo da empresa XYZ"
+    src="Logo da empresa.png" />
+    Nos oferecemos um serviço completo para o melhor conforto da sua visão.
+    <a href="#">
+    <img alt="Link para Twitter" 
+    src="img/twitter.jpg" width="50" height="50"/>
+    </a>
+    <a href="#">
+    <img alt="Link para Facebook" 
+    src="img/facebook.jpg" width="50" height="50"/>
+    <a href="#">
+    <img alt="Link para Instagram" src="img/Instragram.jpg" width="50" height="50"/>
+    (link-Facebook, Twitter, Instagram)
+    </a>
+
+    </div>
+    <div>
+    Links
+    Início
+    Produtos e Marcas
+            
+            
+    </div>
+    <div>
+    Contato
+    Endereço: Rua x, endereço y, Avenida z. Cidade, UF, 72000-000.
+    Telefone: <a href="tel:6133333333">(61)3333-3333</a>
+    Email:<a href="mailto:otica@otica.com.br">otica@otica.com.br</a>
+    </div>
+    <div>
+    Todo os direitos reservados (@) 2017. <a href="termodeuso.html">Termos de uso</a>  e <a href="politicadeprivacidade.html">Políticas de privacidade.</a>
+    </div>
+    </footer>
+    </body>
+</html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
